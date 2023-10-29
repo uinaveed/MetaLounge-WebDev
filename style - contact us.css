@@ -1,0 +1,159 @@
+.bias-lighting-3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1495.3px;
+    height: 1233.18px;
+}
+.footer-icon {
+    position: absolute;
+    top: 1022px;
+    bottom: -10px;
+    left: 0px;
+    width: 100%;
+    height: 369.74px;
+    overflow: hidden;
+}
+.logo-icon {
+    position: absolute;
+    top: 72px;
+    left: 80px;
+    width: 348px;
+    height: 30px;
+}
+.home {
+    position: absolute;
+    top: 10px;
+    left: 0px;
+}
+.about-us {
+    position: absolute;
+    top: 10px;
+    left: 95px;
+}
+.pricing {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.vector-icon {
+    position: absolute;
+    top: 10px;
+    left: 68px;
+    width: 13px;
+    height: 8px;
+}
+.dropdown {
+    position: absolute;
+    top: 10px;
+    left: 218px;
+    width: 82px;
+    height: 14px;
+}
+.blog {
+    position: absolute;
+    top: 10px;
+    left: 340px;
+}
+.our-team {
+    position: absolute;
+    top: 10px;
+    left: 421px;
+}
+.contact-us {
+    position: absolute;
+    top: 10px;
+    left: 549px;
+}
+.navbar-child {
+    position: absolute;
+    top: 42px;
+    left: 549px;
+    background-color: #e5ff98;
+    width: 100px;
+    height: 4px;
+}
+.navbar {
+    position: absolute;
+    top: 70px;
+    left: 600px;
+    width: 649px;
+    height: 34px;
+}
+.header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 174px;
+}
+.hero-section-icon {
+    position: absolute;
+    top: 176px;
+    left: 80px;
+    width: 1360px;
+    height: 848px;
+}
+.buttons-icon {
+    position: absolute;
+    top: 843px;
+    left: 80px;
+    width: 174px;
+    height: 74px;
+}
+.dev-compatible-flatten-con {
+    position: absolute;
+    background-color: #0d1101;
+    width: 100.6%;
+    height: 1390px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Product Sans';
+    bottom: -10px;
+    top: -10px;
+    left: -8px;
+    right: 15px;
+    margin-right: -10px;
+}
+
+.li-des{
+    list-style-type: none;
+}
+/* .navbar a.cur:hover{
+    border-bottom: 4px solid #c9f0fa; 
+    top: 5px;
+} */
+.navbar  a.active-link .navbar-child {
+    border-bottom: 4px solid#c499fb; 
+    width: 100%;
+     
+}
+.navbar a:link{
+    text-decoration: none;
+}
+.navbar a{
+    color: white;
+}
+.cur{
+    cursor: pointer;
+    font-weight: bold;
+}
+.cur:hover{
+    color: #e3fb9b;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background: #E5FF98; 
+}
+::-webkit-scrollbar-thumb {
+    background: #617e0b; 
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #324106; 
+}
+
